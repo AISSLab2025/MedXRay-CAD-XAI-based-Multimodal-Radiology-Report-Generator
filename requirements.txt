@@ -1,0 +1,14 @@
+re
+os
+langchain
+numpy
+pandas
+matplotlib
+sklearn
+torch
+torchvision
+tqdm
+Pillow
+opencv-python
+requests
+pytorch-grad-cam
